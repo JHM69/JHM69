@@ -1,6 +1,6 @@
 **Here is some information about me you might interest in:**
 ```  
-  0. an introvert.
+  0. most likely an introvert.
   1. hardly talk to people unless he/she is closest to me af. 
   2. good observer. 
   3. always thinks about how things work, how inventors made something or how can I made something like this.  
