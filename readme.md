@@ -10,3 +10,4 @@
   7. doesn't get things done in time, always the late guy.
   8. Mom used to say "Brain valo kintu kaje lagay na"
 ```
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhm69&theme=nord_dark)
