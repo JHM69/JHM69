@@ -10,4 +10,5 @@
   7. doesn't get things done in time, always the late guy.
   8. Mom used to say "Brain valo kintu kaje lagay na"
 ```
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhm69&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhm69&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhm69&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhm69&theme=github_dark)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhm69&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhm69&theme=github_dark)
