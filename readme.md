@@ -15,7 +15,7 @@
 
 <br/>
 
-[![GitHub jhm69](https://img.shields.io/github/followers/jhm69?label=follow&style=social)](https://github.com/mohaimin1935)
+[![GitHub jhm69](https://img.shields.io/github/followers/jhm69?label=follow&style=social)](https://github.com/jhm69)
 
 <br />
 
