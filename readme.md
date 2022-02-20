@@ -1,16 +1,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhm69&label=Views&color=blue&style=plastic" alt="jhm69" /> </p>
 
 <a href="https://www.linkedin.com/in/jahangir-hossain-b8325017b/">
-  <img align="left" alt="Jahangirs's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Jahangirs's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />
 </a>
-<a href="https://github.com/jhm69">
-  <img align="left" alt="Jahangirs's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://devpost.com/jhm69">
+  <img align="left" alt="Jahangirs's Devpost" width="22px" src="https://img.icons8.com/color/22/000000/devpost.png" />
 </a>
 <a href="https://www.instagram.com/jhm691127/">
-  <img align="left" alt="Jahangirs's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Jahangirs's Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
 </a>
 <a href="https://www.facebook.com/jhm69">
-  <img align="left" alt="Jahangirs's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Jahangirs's Facebook" width="22px" src="https://img.icons8.com/color/22/000000/facebook-new.png" />
 </a>
 
 <br/>
@@ -20,8 +20,8 @@
 <br />
 
 <a href="https://github.com/jhm69">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhm69&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhm69&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/jhm69">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhm69&show_icons=true&theme=light&line_height=27" alt="jhm69's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhm69&show_icons=true&theme=dark&line_height=27" alt="jhm69's github stats"/>
 </a>
