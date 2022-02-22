@@ -6,9 +6,6 @@
 <a href="https://devpost.com/jhm69">
   <img align="left" alt="Jahangirs's Devpost" width="22px" src="https://img.icons8.com/color/22/000000/devpost.png" />
 </a>
-<a href="https://www.instagram.com/jhm691127/">
-  <img align="left" alt="Jahangirs's Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
-</a>
 <a href="https://www.facebook.com/jhm69">
   <img align="left" alt="Jahangirs's Facebook" width="22px" src="https://img.icons8.com/color/22/000000/facebook-new.png" />
 </a>
