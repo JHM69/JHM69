@@ -5,6 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhm69" alt="jhm69" /></a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhm69&show_icons=true&locale=en&layout=compact" alt="jhm69" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhm69&show_icons=true&locale=en" alt="jhm69" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhm69&" alt="jhm69" /></p>
+
+
 - 🔭 I’m currently working on **[Codesohoj - an online judge](https://github.com/JHM69/codesohoj)**
 
 - 📫 How to reach me **jahangirhossainm69@gmail.com**
