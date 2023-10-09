@@ -37,6 +37,7 @@
 
 |                       Competition Name                        |         Project Name          | Achievement                                                                               |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
+|                    KYAU National Hackathon                    |Smart Village System Nanagement| [Champion][kyau]                                                                 |
 |                       HackHolyoke 2020                        |    [CareBuddy][carebuddy]     | [Champion in all categories][hackHolyoke2020]                                             |
 |                   MBSTU Robo Tech Olympiad                    |     [Go Bangladesh][goBd]     | [Champion at Project Showcasing][mbstuRoboTech]                                           |
 |                       HackHolyoke 2021                        | [Money Tracker][moneyTracker] | [1st Position in Best Financial Management category ][hackHolyoke2021]                    |
@@ -68,6 +69,7 @@
 
 <!-- achievement links-->
 
+[kyau]: https://www.linkedin.com/posts/jahangir-hossain-b8325017b_champion-it-was-a-sudden-plan-to-participate-activity-7107094867633209346-bY_X?utm_source=share&utm_medium=member_desktop
 [hackHolyoke2020]: https://devpost.com/software/carebuddy-rhgbd4
 [mbstuRoboTech]: https://www.facebook.com/jhm69
 [hackHolyoke2021]: https://devpost.com/software/money_tracker
