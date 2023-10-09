@@ -37,7 +37,7 @@
 
 |                       Competition Name                        |         Project Name          | Achievement                                                                               |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
-|                    KYAU National Hackathon                    |Smart Village System Nanagement| [Champion][kyau]                                                                 |
+|                    KYAU National Hackathon                    |Smart Village System Management| [Champion][kyau]                                                                 |
 |                       HackHolyoke 2020                        |    [CareBuddy][carebuddy]     | [Champion in all categories][hackHolyoke2020]                                             |
 |                   MBSTU Robo Tech Olympiad                    |     [Go Bangladesh][goBd]     | [Champion at Project Showcasing][mbstuRoboTech]                                           |
 |                       HackHolyoke 2021                        | [Money Tracker][moneyTracker] | [1st Position in Best Financial Management category ][hackHolyoke2021]                    |
