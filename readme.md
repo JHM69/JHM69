@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jahangir Hossain</h1>
-<h3 align="center">A 3rd Year CS Student at Jagannath University, Dhaka</h3>
+<h3 align="center">4th Year CSE Student at Jagannath University and Working Software Engineer at <a href="https://simplisolve.us">SimpliSolve</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhm69&label=Profile%20views&color=0e75b6&style=flat" alt="jhm69" /> </p>
 
@@ -8,9 +8,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhm69&show_icons=true&locale=en&layout=compact" alt="jhm69" /></p> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhm69&show_icons=true&locale=en" alt="jhm69" /></p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhm69&" alt="jhm69" /></p>
-
-
-- 🔭 I’m currently working on **[Shuno - an audio streaming app](https://github.com/JHM69/Shuno-Backend)**
 
 - 📫 How to reach me **jahangirhossainm69@gmail.com**
 
@@ -21,22 +18,12 @@
 <a href="https://www.instagram.com/jhm69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhm69" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@jhm69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Jahangir Hossain" height="30" width="40" /></a>
 </p>
-
-## MY SKILLS & TOOLS
-
-| Category         | Skills                                                                                                                          | Icons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| :--------------- | :------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Language         | C++, Java, TypeScript & JS, Python                                                                                              | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="python" width="30" height="30"/> |
-| Mobile           | Kotlin, Java, MVVM, Retrofit, Room, Google Maps API, CameraX, MotionLayout, Flutter with Dart                                   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/>                                                                                                                                                                         |
-| Web              | React JS & Next JS, Prisma, Node JS, Tailwind CSS, MUI, Bootstrap                                                               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next.js" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>                                                                                                                                        |
-| Database         | MySQL, PostgreSQL, Sqlite (Android), Firebase                                                                                   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>                                                                                                                           |
-| Design           | Figma, Canva, Adobe Illustrator, Photoshop, XD, KdenLive                                                                        | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/>                                                                                                                                                                                                                                                                                                                                                       |
-| Additional Skill | Linux, Git, Github, Docker, VPS Management, Vercel, cPanel, Railway, PlanetScale, Azure VM, Google Apps Script, LaTeX, and more | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>                                                                                                                             |
-
+ 
 ## AWARDS
 
 |                       Competition Name                        |         Project Name          | Achievement                                                                               |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
+|                     Code Samurai 2024                         | [DNCC EcoSync][DNCC EcoSync]  | [Rank: 5th][code_samurai_5th]   
 |                    KYAU National Hackathon                    |Smart Village System Management| [Champion][kyau]                                                                 |
 |                       HackHolyoke 2020                        |    [CareBuddy][carebuddy]     | [Champion in all categories][hackHolyoke2020]                                             |
 |                   MBSTU Robo Tech Olympiad                    |     [Go Bangladesh][goBd]     | [Champion at Project Showcasing][mbstuRoboTech]                                           |
@@ -69,6 +56,7 @@
 
 <!-- achievement links-->
 
+[code_samurai_5th]: https://www.linkedin.com/pulse/experience-code-samurai-2024-jahangir-hossain-zgglc/
 [kyau]: https://www.linkedin.com/posts/jahangir-hossain-b8325017b_champion-it-was-a-sudden-plan-to-participate-activity-7107094867633209346-bY_X?utm_source=share&utm_medium=member_desktop
 [hackHolyoke2020]: https://devpost.com/software/carebuddy-rhgbd4
 [mbstuRoboTech]: https://www.facebook.com/jhm69
@@ -90,10 +78,11 @@
 [goBd]: https://go-bangladesh.com/
 [moneyTracker]: https://github.com/JHM69/Money_Tracker
 [carebuddy]: https://github.com/JHM69/CareBuddy
+[DNCC EcoSync]: https://github.com/JHM69/CS24-p2-quantum_guys
 
 <!-- social media links -->
 
-[LinkedIn]: https://www.linkedin.com/in/hasan-masum-281157186/
+[LinkedIn]: https://www.linkedin.com/in/jhm69/
 [Instagram]: https://www.instagram.com/jhm69/
 [Facebook]: https://www.facebook.com/jhm69
 [Twitter]: (https://twitter.com/jhm69)
