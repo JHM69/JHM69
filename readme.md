@@ -23,7 +23,8 @@
 
 |                       Competition Name                        |         Project Name          | Achievement                                                                               |
 | :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
-|            Nasa Space App Challenge - Dhaka Region            |[Landsat Pulse][landsat]       | [Champion][nasa_champion]                                                                 |
+|                  BUET CSE FEST 2024 Hackathon                 |    [Easy Trip][EasyTrip]      | [Champion][buet_champion]                                                                 |
+|            Nasa Space App Challenge - Dhaka Region            |  [Landsat Pulse][landsat]     | [Champion][nasa_champion]                                                                 |
 |                     Code Samurai 2024                         | [DNCC EcoSync][DNCC EcoSync]  | [Rank: 5th][code_samurai_5th]                                                             |
 |                    KYAU National Hackathon                    |Smart Village System Management| [Champion][kyau]                                                                          |
 |                       HackHolyoke 2020                        |    [CareBuddy][carebuddy]     | [Champion in all categories][hackHolyoke2020]                                             |
@@ -47,7 +48,8 @@
 |                  Developed an Android App for All Judges of Bangladesh                   | Judges' Platform BD  | [Get It on Google Play][judgesPlatformBd] |
 
 <!-- links -->
-[nasa_champion]: https://www.linkedin.com/posts/jhm69_nasaspaceapps-hackathonchampion-quantumvoyagers-activity-7248613363587424256-yrp4?utm_source=share&utm_medium=member_desktop
+[nasa_champion]: https://www.linkedin.com/posts/jhm69_nasaspaceapps-hackathonchampion-quantumvoyagers-activity-7248613363587424256-yrp4
+[buet_champion]: https://www.linkedin.com/posts/jhm69_we-became-champion-at-the-buet-cse-fest-2024-activity-7256759475091484672-2PAu
 [mpBian]: http://mp-bian.com
 [infinityPublication]: https://docs.google.com/presentation/d/1VsnUCp6PPcYLZYSUro5vAISWb_kzB9xQE60s-wftQrU/edit?usp=sharing
 [cmmCourtDhaka]: http://cmmcourtdhaka.gov.bd
@@ -56,6 +58,7 @@
 [judgesPlatformBd]: https://play.google.com/store/apps/details?id=com.jhm69.bjs_contact&hl=en&gl=US
 
 <!-- achievement links-->
+[EasyTrip]: https://github.com/JHM69/EasyTrip
 [Landsat]: https://github.com/JHM69/landsat-pulse-app 
 [code_samurai_5th]: https://www.linkedin.com/pulse/experience-code-samurai-2024-jahangir-hossain-zgglc/
 [kyau]: https://www.linkedin.com/posts/jahangir-hossain-b8325017b_champion-it-was-a-sudden-plan-to-participate-activity-7107094867633209346-bY_X?utm_source=share&utm_medium=member_desktop
