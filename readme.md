@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jahangir Hossain</h1>
-<h3 align="center">4th Year CSE Student at Jagannath University and Working Software Engineer at <a href="https://simplisolve.us">SimpliSolve</a></h3>
+<h3 align="center">4th Year CSE Student at Jagannath University and Working Software Engineer 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhm69&label=Profile%20views&color=0e75b6&style=flat" alt="jhm69" /> </p>
 
