@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhm69&label=Profile%20views&color=0e75b6&style=flat" alt="jhm69" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhm69" alt="jhm69" /></a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhm69&show_icons=true&locale=en&layout=compact" alt="jhm69" /></p> 
+ 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhm69&show_icons=true&locale=en" alt="jhm69" /></p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhm69&" alt="jhm69" /></p>
 
@@ -37,15 +36,7 @@
 |                 Banglalink SDG Hackathon 3.0                  |      [Green Doctor][gd]       | [Top 10][banglalinkSdg]                                                                   |
 |              SUST SWE Technovent 2023 Hackathon               |   [Garage Chai][garageChai]   | [11th rank][sustHackathon]                                                                |
 |                  Mujib 100 idea contest 2021                  |     [Go Bangladesh][goBd]     | [Secured TOP 30][mujib100]                                                                |
-
-## SOME WORK
-
-|                                     Work Description                                     |      Work Title      | Link                                      |
-| :--------------------------------------------------------------------------------------: | :------------------: | :---------------------------------------- |
-|                    Developed Course and Exam Management (LMS) Web App                    |     mp-bian.com      | [Visit Site][mpBian]                      |
-|                         Developed Sales and Accounting Software                          | Infinity Publication | [View Presentation][infinityPublication]  |
-| Developed Automated Case Management, Public Search and Judge Assignment Software Backend |   CMM Court Dhaka    | [Visit Site][cmmCourtDhaka]               |
-|                  Developed an Android App for All Judges of Bangladesh                   | Judges' Platform BD  | [Get It on Google Play][judgesPlatformBd] |
+ 
 
 <!-- links -->
 [nasa_champion]: https://www.linkedin.com/posts/jhm69_nasaspaceapps-hackathonchampion-quantumvoyagers-activity-7248613363587424256-yrp4
